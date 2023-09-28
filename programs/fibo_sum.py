@@ -21,4 +21,4 @@ def fibo_sum(n):
 num=int(input("enter your number :"))
 
 ans=fibo_sum(num)
-print("Your solution :")
+print("Your solution :",ans)
