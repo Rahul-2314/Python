@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 
 # API key
-api_key = "0501a6a860c04ef4883c3fc1a2aadc94"
+api_key = "" # Use your API key [newapi.org]
 
 # Streamlit GUI Topbar
 st.title("Daily News App")
