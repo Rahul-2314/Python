@@ -1,0 +1,9 @@
+1. Add your API Key from [newsapi.org]
+
+2. streamlit run .\news_app.py 
+
+3. Import necessary modules
+
+4. Improve this project by your valuable contribution (pull request)
+
+5. For any queries contact me @[chowdhuryrahul865@gmail.com]
