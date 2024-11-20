@@ -1,8 +1,8 @@
 1. Add your API Key from [newsapi.org]
 
-2. streamlit run .\news_app.py 
+2. pip install streamlit
 
-3. Import necessary modules
+3. streamlit run .\news_app.py 
 
 4. Improve this project by your valuable contribution (pull request)
 
