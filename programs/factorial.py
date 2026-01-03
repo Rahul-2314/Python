@@ -6,6 +6,6 @@ def factorial(num):
     else:
         return num*factorial(num-1)
 
-
+print("===== Welcome to Factorial Calculator =====")
 num = int(input("Enter a number :"))
 print("Factorial is ", factorial(num))
